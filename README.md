@@ -1,6 +1,6 @@
 # AutoVPN
 
-* Installation *
+## Installation
 
 ```
 git clone https://github.com/Kretinga/AutoVPN-Python.git
